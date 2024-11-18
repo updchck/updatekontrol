@@ -1,0 +1,14 @@
+{
+    "apiUrl": "https://app.gpiktv2.workers.dev/",
+    "apiUrl_Plus": "https://app.gpiktv2.workers.dev/",
+    "apiUrl_Status": "https://dl.dropboxusercontent.com/scl/fi/ls37mqh28237tdzki35hb/6851392740.json?rlkey=3ae0346mtq9kunylpm3hyad22&dl=0",
+    "apiUrl_Settings": "https://dl.dropboxusercontent.com/scl/fi/ce35nl1humzxyxl3g3y16/6851392741.json?rlkey=hp3zb4vhpzpuyrm8tq9z6htza&dl=0",
+    "apiUrl_CH": "https://in.mt/7A8",
+    "updateConfig": {
+        "updateVersiyon": "1.1.7",
+        "updateTitle": "Yeni Güncelleme Var!",
+        "updateYenilik": "*Vavoo paneli için ek bazı stabilize ayarlamalar.
+*Gruplaştırma yapılan vavoo kanalları devamlı güncel kalması için bot geliştirildi.",
+        "updateLink": "https://github.com/9850392789/app/raw/refs/heads/main/GpikTV_v1.1.7.apk"
+    }
+}
