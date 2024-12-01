@@ -1,7 +1,7 @@
 {
     "apiUrl": "https://loginstore.one/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.4.9",
+        "updateVersiyon": "1.4.7",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
         "updateYenilik": "Ufak tefek güncellemeler yapıldı.",
         "updateLink": "https://is.gd/2QdWOV"
