@@ -1,10 +1,10 @@
 {
     "apiUrl": "https://loginstore.one/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.4.7",
+        "updateVersiyon": "1.4.9",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
         "updateYenilik": "Paneller kısmına Dezor yayınları eklendi,.....",
-        "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.4.6.apk"
+        "updateLink": "https://is.gd/2QdWOV"
     },
      "appSignature": "9275CEE1FD47B543412DE852C118A0663E40AA83EG12"
 }
