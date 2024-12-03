@@ -1,1 +1,19 @@
-reddom
+{
+  "versionCode": 63,
+  "versionName": "6.9",
+  "Msg": "New update is available, to continue in our app please update it.
+Yeni guncelleme mevcut, lutfen guncelleyiniz.
+
+What's new-Neler yeni
+- Performance Improvements.
+Performans iyilestirmeleri.
+- Bug Fixes.
+Hatalar giderildi.
+- New Features introduced.
+Yeni ozellikler eklendi.
+- Others minor changes.
+Diger degisiklikler.
+
+Thanks for using-Tesekkurler",
+  "downloadLink": "https://t.me/reddomvip"
+  }
