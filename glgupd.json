@@ -2,12 +2,12 @@
     "apiUrl": "https://loginstore.one/appMainGetData.php",
     "updateConfig": {
         "updateVersiyon": "1.5.4",
-        "updateTitle": "Şimdi Güncelleme Zamanı golge sagolsun!",
-        "updateYenilik": "Bazı Player fixlemeleri(reddom)",
+        "updateTitle": "Şimdi Güncelleme Zamanı!",
+        "updateYenilik": "Bazı Player fixlemeleri",
         "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.5.4.apk",
-        "websiteLink": "https://mackolik.com",
-        "telegramLink": "https://t.me/@reddomvip"
+        "websiteLink": "https://emegesaygiapk.blogspot.com",
+        "telegramLink": "https://t.me/+Irpfjb1y4O8wYTNk"
        
     },
-     "appSignature": "8E1E0621FFBECF61746CFB40490B8381C7D6A68B"
+     "appSignature": "D8C42BC6CD20C00E85659003F62B1F4A7A882DCB"
 }
