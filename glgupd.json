@@ -3,8 +3,11 @@
     "updateConfig": {
         "updateVersiyon": "1.5.3",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
-        "updateYenilik": "Ufak tefek güncellemeler yapıldı.",
-        "updateLink": "https://is.gd/Y4iBBl"
+        "updateYenilik": "Bazı Player fixlemeleri",
+        "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.5.4.apk",
+        "websiteLink": "https://emegesaygiapk.blogspot.com",
+        "telegramLink": "https://t.me/+Irpfjb1y4O8wYTNk"
+       
     },
-     "appSignature": "9275CEE1FD47B543412DE852C118A0663E40AA83EG12"
+     "appSignature": "D8C42BC6CD20C00E85659003F62B1F4A7A882DCB"
 }
