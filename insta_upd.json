@@ -1,5 +1,5 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": "Yeni bir güncelleme var.",
   "content_url": "https://sammods.github.io/insta-expiry/ytproads.html",
   "positive_btn": "Güncelle",
