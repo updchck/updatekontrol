@@ -1,13 +1,13 @@
 {
-    "apiUrl": https://cloudgolge.shop/appMainGetData.php",
+    "apiUrl": "https://cloudgolge.shop/appMainGetData.php",
     "updateConfig": {
         "updateVersiyon": "1.5.4",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
-        "updateYenilik": "Bazı Player fixlemeleri",
-        "updateLink": "https://github.com/asdsplus/pro/blob/main/GolgeTV-Plus-1.5.3.apk",
-        "websiteLink": "https://apkgolge.blogspot.com/",
-        "telegramLink": "https://t.me/reddomvip"
+        "updateYenilik": "Yeni Dizi Panel eklendi.",
+        "updateLink": "https://github.com/ceceyli/pro/raw/refs/heads/main/GolgeTV-Plus-1.5.5.apk",
+        "websiteLink": "https://emegesaygiapk.blogspot.com",
+        "telegramLink": "https://t.me/+Irpfjb1y4O8wYTNk"
        
     },
-     "appSignature": "8E1E0621FFBECF61746CFB40490B8381C7D6A68B"
+     "appSignature": "D8C42BC6CD20C00E85659003F62B1F4A7A882DCB"
 }
