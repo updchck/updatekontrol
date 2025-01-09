@@ -1,7 +1,7 @@
 {
     "apiUrl": "https://cloudgolge.shop/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.5.6",
+        "updateVersiyon": "1.5.4",
         "updateTitle": "Şimdi Güncelleme Zamanı!",
         "updateYenilik": "Yeni Dizi ve Film Panel eklendi.",
         "updateLink": "https://raw.githubusercontent.com/ceceyli/asds/refs/heads/main/asds.json",
