@@ -1,7 +1,7 @@
 {
     "apiUrl": "https://panel2.cloudgolge.shop/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.5.6",
+        "updateVersiyon": "1.5.4",
         "updateTitle": "Yeni Sisteme geçildi",
         "updateYenilik": "Filmler Ve diziler ayrı kategori olarak ayarlandı",
         "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.5.7.apk",
