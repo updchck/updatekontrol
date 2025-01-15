@@ -1,7 +1,7 @@
 {
     "apiUrl": "https://panel2.cloudgolge.shop/appMainGetData.php",
     "updateConfig": {
-        "updateVersiyon": "1.5.8",
+        "updateVersiyon": "1.5.7",
         "updateTitle": "Forever Reddom",
         "updateYenilik": "Filmler Ve diziler ayrı kategori olarak ayarlandı",
         "updateLink": "https://github.com/asdsplus/pro/raw/refs/heads/main/GolgeTV-Plus-1.5.8.apk",
