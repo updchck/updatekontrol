@@ -20,3 +20,5 @@ Xiaomi 14t pro
 Mevlut Teke [ Titan linux ]:
 Mevlut teke Samsung m31
 e1801b10c1993e1a9afe5663c72c553e97a49688006e531a4e63f82a124cea20
+
+Murat tezcan samsung A34.  5a08b2acc6103106eaa8ad37f28bf5cafb455f4a53e95599db79d1b740de14a5
