@@ -26,3 +26,5 @@ Murat tezcan samsung A34.  5a08b2acc6103106eaa8ad37f28bf5cafb455f4a53e95599db79d
 Muzzy33 
 poco x3 pro
 ba3431c20cf5d8dc6ece6dfbdb96b3ee31230cb46a26d16b4b8be6e3bd268524
+
+Ozalp1988 xioami not 12 pro 60584bb8d28be6ea6874276565cee85bb22f2ef07d230ad5b3cb36181c041d11
