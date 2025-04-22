@@ -1,8 +1,8 @@
 {
-  "show_message": true,
+  "show_message": false,
   "title": "Yeni bir guncelleme var...   ",
   "content_url": "https://sammods.github.io/insta-expiry/ytproads.html ",
   "positive_btn": "Guncelle",
   "link": "https://www.samapkstore.com/2024/10/youtubeproapp.html",
-  "cancelable": false
+  "cancelable": true
 }
