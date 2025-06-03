@@ -12,10 +12,9 @@ HaceLi Samsung m30s 231d4f1f39912f0f2485a94539fa8147e92984fb9503c64065ab5bed7b67
 ramazan:
 Ramazan Samsung a52.   322934708c3a797b2f5c93584bd1393106169f7f0ff2ae6e8b231ae935403b99
 
-Murat Kaya:
-Mkaya0606
-Xiaomi 14t pro
-8844612e93ceca8fafef6901ad73fc5a91063a3d46246d7198bfbf2dfbd0bc2f
+
+Murat Kaya Xiaomi 15 ultra
+b77448d827d71bb57598c4544f149863a70842858dfaeffe96b82884c032ea3a
 
 Mevlut Teke [ Titan linux ]:
 Mevlut teke Samsung m31
