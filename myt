@@ -15,6 +15,7 @@ Ramazan Samsung a52.   322934708c3a797b2f5c93584bd1393106169f7f0ff2ae6e8b231ae93
 
 Murat Kaya Xiaomi 15 ultra
 b77448d827d71bb57598c4544f149863a70842858dfaeffe96b82884c032ea3a
+cf0db61fa7be354a2fe0c4170c57ee33ace5a6edc11270e578edfcdbad57b8cb
 
 Mevlut Teke [ Titan linux ]:
 Mevlut teke Samsung m31
