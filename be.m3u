@@ -84,6 +84,9 @@ https://betconnectstreamserver1001.site/trt1/mono.m3u8
 #EXTVLCOPT:http-referrer=https://53b7bc644664d6837298a126648c51.betconnect.website
 https://betconnectstreamserver1001.site/atv/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://r.resimlink.com/6yeTDU.jpg" tvg-name="BETConnect Sports | HD 1" group-title="RedCONNECT SPORTS",RedConnect Sports | HD 1
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/CnC20BlQ7KlmEUT2CCeHC-2AG2dIFYtlUcIqpZUggZJITx6XiZ6jdSVcDrEBt7LOjPl9yQpB1nBJ_wS8QsVoCDWm39S-LTcFwQskA2ttPqPNuxl42nGWq6EMUyLDzEO1rRTMoL4093IA-6CsD3lXs3t0MXJiDyWT3_pvR3mt7KM74CzysebVRXOLMnB_o2YGEEJ2tZhNUmkEJ6ENp8-Zpc0b8zyoHq6yBVk8_axMgizdFC3AZmNCSU0ZrkJ3O8stOtWO_pMS-30YZ91MFoK4aw/hls/index.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="4K TR: TRT 1 HD .b" tvg-logo="https://raw.githubusercontent.com/umitm0d/Alakart/refs/heads/main/umitm0d.png" group-title="ULUSAL KANALLAR 4K",4K TR: TRT 1 HD .b
 https://umitm0d-ailesine-ozel.umitm0dlive.workers.dev/?i=umitm0d1
 #EXTINF:-1 tvg-id="2" tvg-name="TRT 1 FHD .b" tvg-logo="https://raw.githubusercontent.com/umitm0d/Alakart/refs/heads/main/umitm0d.png" group-title="ULUSAL KANALLAR 4K",TRT 1 FHD .b
